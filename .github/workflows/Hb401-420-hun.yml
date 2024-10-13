@@ -20,10 +20,10 @@ jobs:
         JOB: ${{ matrix.go }}
     steps:
       - uses: actions/checkout@v3
-      - name: Run hb381 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_rrFX5428CoqU44ya13yW8qIEsQxZ/6PkUucQ3uj
-      - name: Run hb381 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_rrFX5428CoqU44ya13yW8qIEsQxZ/6PkUucQ3uj
+      - name: Run hb401 a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_yaBj1JyuHDzyJtityHRIeRJtjF7N/2eWwcitWCi
+      - name: Run hb401 a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_yaBj1JyuHDzyJtityHRIeRJtjF7N/2eWwcitWCi
       - name: Run hb382 a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_lyVhfZmYjGoBUhCRhdKgaHGW7L7R/uwLaTRufYh
       - name: Run hb382 a one-line script
