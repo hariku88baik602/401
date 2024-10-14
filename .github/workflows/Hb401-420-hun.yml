@@ -83,22 +83,22 @@ jobs:
       - name: Run hb415 a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_M6HfM8pt9Adt8zMQHRNHRqkIZvuz/aVYt2kG4mt
       - name: hb416 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_tU7woz1nc8mk75eZpXBRZd51y7ts/f2bOZlR60A
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_Z6eippXzASfp8Z31lYKpkNtvTMjo/ePkrbFPbCo
       - name: hb416 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_tU7woz1nc8mk75eZpXBRZd51y7ts/f2bOZlR60A
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_Z6eippXzASfp8Z31lYKpkNtvTMjo/ePkrbFPbCo
       - name: hb417 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_7yRidrg8r8dhqODG1lD97wwTChaO/fE6ReAwMyk
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_Mm8fiNmXvsiRSm8yazZCd0wvaznP/J3lzylVC7v
       - name: hb417 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_7yRidrg8r8dhqODG1lD97wwTChaO/fE6ReAwMyk
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_Mm8fiNmXvsiRSm8yazZCd0wvaznP/J3lzylVC7v
       - name: Run hb418 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_E8NDGGzYrHyuv3jdZe32u33wWwPZ/2JbBevpTcd
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_f5eC47mvAYx1OKSp6ow0wjWYqM7y/vr0C83DlzZ 
       - name: Run hb418 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_E8NDGGzYrHyuv3jdZe32u33wWwPZ/2JbBevpTcd
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_f5eC47mvAYx1OKSp6ow0wjWYqM7y/vr0C83DlzZ 
       - name: hb419 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_9wqfjLN320YUz9g9KeMomBKcq0Yp/2tpYFOw990
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_8ZEZjMraUzY7pAUQBXladXFzO9Vo/rj7yXNcmPJ
       - name: hb419 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_9wqfjLN320YUz9g9KeMomBKcq0Yp/2tpYFOw990
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_8ZEZjMraUzY7pAUQBXladXFzO9Vo/rj7yXNcmPJ
       - name: hb420 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_DSvGBGElD5u5y0vpofddUKxsfIGO/owid9xDFrf
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_vj7DzUzWp4L3PonJqcm65CXNz2I8/3Jio1KXWxt
       - name: hb420 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_DSvGBGElD5u5y0vpofddUKxsfIGO/owid9xDFrf
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_vj7DzUzWp4L3PonJqcm65CXNz2I8/3Jio1KXWxt
