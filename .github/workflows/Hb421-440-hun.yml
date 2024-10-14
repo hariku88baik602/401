@@ -99,6 +99,6 @@ jobs:
       - name: hb439 Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_jSkp6RblBuYmLnF2m6mVK04Vimtf/bW7e7j4Z1i
       - name: hb440 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_vj7DzUzWp4L3PonJqcm65CXNz2I8/3Jio1KXWxt
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_RgRMmkh6Hsv1cEyKnUcfBnOtQ1Aj/LapauySFDW 
       - name: hb440 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_vj7DzUzWp4L3PonJqcm65CXNz2I8/3Jio1KXWxt
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_RgRMmkh6Hsv1cEyKnUcfBnOtQ1Aj/LapauySFDW 
