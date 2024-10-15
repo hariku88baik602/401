@@ -92,9 +92,9 @@ jobs:
       - name: hb497 Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_ZE89UrFbee5SKebV4XByGFmtVEEO/v3UeqlRAQT
       - name: Run hb498 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_0dusT6AOiTWLFatrnFJGzrMmGuQD/0arCFh7mSh
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_RdpCa2ODZvAYvvJAldwWvK1AgiyC/N7HzWfsmmS
       - name: Run hb498 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_0dusT6AOiTWLFatrnFJGzrMmGuQD/0arCFh7mSh
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_RdpCa2ODZvAYvvJAldwWvK1AgiyC/N7HzWfsmmS
       - name: hb499 Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_fIA25D5rmi91uvN8bRfo19ZbJsjn/ieX2GoUeDS
       - name: hb499 Run a one-line script
