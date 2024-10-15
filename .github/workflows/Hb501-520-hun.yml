@@ -20,14 +20,14 @@ jobs:
         JOB: ${{ matrix.go }}
     steps:
       - uses: actions/checkout@v3
-      - name: Run hb401 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_yaBj1JyuHDzyJtityHRIeRJtjF7N/2eWwcitWCi
-      - name: Run hb401 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_yaBj1JyuHDzyJtityHRIeRJtjF7N/2eWwcitWCi
-      - name: Run hb402 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_Wn9ddSJ4LqlRIUhEk7AISRCAHnFw/46JNgbeps3
-      - name: Run hb402 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_Wn9ddSJ4LqlRIUhEk7AISRCAHnFw/46JNgbeps3
+      - name: Run hb501 a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_CaiCqcaIPbs1GwXasNrm6N9CI2HB/wg3Hmx4Cas
+      - name: Run hb501 a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_CaiCqcaIPbs1GwXasNrm6N9CI2HB/wg3Hmx4Cas
+      - name: Run hb502 a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_VzGNQUAmsUbz4lSAXI7yN2lZgkdG/lC0NuReU85
+      - name: Run hb502 a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_VzGNQUAmsUbz4lSAXI7yN2lZgkdG/lC0NuReU85
       - name: Run hb403 a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_ezO4BKeSZAjHS24DYufaeJuvvMpX/2nmjxUhkHE 
       - name: Run hb403 a one-line script
