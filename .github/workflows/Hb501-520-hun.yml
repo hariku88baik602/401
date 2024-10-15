@@ -53,19 +53,19 @@ jobs:
       - name: Run hb508 a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_k9nSe8HDI12bxW07Hr18kM7AQceg/UMR5Mjaa6C
       - name: hb509 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_dR52d9rH9TKDR6fjuNjhAdQ5PIxZ/KSxeToKVC7
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_eQSrVfVj0RDKrYUABiYgdy5qtRFJ/swXaISAKfT
       - name: hb509 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_dR52d9rH9TKDR6fjuNjhAdQ5PIxZ/KSxeToKVC7
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_eQSrVfVj0RDKrYUABiYgdy5qtRFJ/swXaISAKfT
       - name: hb510 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_sbg2QVXziNftebhYY4K7Dmjsy4yR/DGYJJola1q
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_FLN3KPF4VtiQYynV1Q2UF6EoI3bW/z1TVvaJhaY
       - name: hb510 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_sbg2QVXziNftebhYY4K7Dmjsy4yR/DGYJJola1q
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_FLN3KPF4VtiQYynV1Q2UF6EoI3bW/z1TVvaJhaY
 
 
-      - name: Run hb411 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_nsZjRSWLRahxpx804QJ2yrSEie3m/09B6bSJOfw 
-      - name: Run hb411 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_nsZjRSWLRahxpx804QJ2yrSEie3m/09B6bSJOfw      
+      - name: Run hb511 a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_CmXi5Pe5D32CdDB5Zx6kVMGgXDlD/BXUQoouXyl 
+      - name: Run hb511 a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_CmXi5Pe5D32CdDB5Zx6kVMGgXDlD/BXUQoouXyl     
       - name: Run hb412 a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_z9D38ePHefA6MuJTAy01ZgBBCcF1/h3DXOO8lo3
       - name: Run hb412 a one-line script
