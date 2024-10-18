@@ -1,4 +1,4 @@
-name: Hb501-520-hun
+name: Hb501-520-hun 
 on:  
   push:
   pull_request:
